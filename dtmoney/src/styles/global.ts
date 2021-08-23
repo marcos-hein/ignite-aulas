@@ -32,7 +32,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: var(---background);
+    background: var(--background);
     -webkit-font-smoothing: antialiased;
   }
 
@@ -45,7 +45,7 @@ export const GlobalStyle = createGlobalStyle`
     font-weight: 600;
   }
 
-  buttom {
+  button {
     cursor: pointer;
   }
 
